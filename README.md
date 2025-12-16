@@ -4,9 +4,9 @@ Este projeto realiza uma análise exploratória dos gastos com viagens de servid
 
 O objetivo é identificar padrões de despesas na administração pública através de duas frentes:
 
-**Análise Macro:** Identificação da despesa média por cargo, filtrando apenas categorias relevantes (>1% do volume) para garantir significância estatística.
+**1. Análise Macro:** Identificação da despesa média por cargo, filtrando apenas categorias relevantes (>1% do volume) para garantir significância estatística.
 
-**Análise de Outliers:** Investigação de casos extremos com gastos superiores a R$ 175 mil, revelando anomalias e padrões de alto custo.
+**2. Análise de Outliers:** Investigação de casos extremos com gastos superiores a R$ 175 mil, revelando anomalias e padrões de alto custo.
 
 Ambas as análises demonstram domínio em ferramentas como Pandas, Matplotlib e técnicas essenciais de exploração de dados.
 
