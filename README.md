@@ -2,7 +2,13 @@
 ## 📋 Sobre o Projeto
 Este projeto realiza uma análise exploratória dos gastos com viagens de servidores públicos em 2024, utilizando dados públicos do **Portal da Transparência**. Foi desenvolvido como parte do **curso de Python para Análise de Dados da Asimov Academy**, aplicando técnicas profissionais de limpeza, transformação e visualização de dados em um cenário real.
 
-O objetivo é identificar padrões de deslocamento e despesas na administração pública, demonstrando domínio em ferramentas como Pandas e Matplotlib. A análise filtra apenas cargos **relevantes** (com representatividade maior que 1% do total de viagens) para garantir insights baseados em dados significativos
+O objetivo é identificar padrões de despesas na administração pública através de duas frentes:
+
+**Análise Macro:** Identificação da despesa média por cargo, filtrando apenas categorias relevantes (>1% do volume) para garantir significância estatística.
+
+**Análise de Outliers:** Investigação de casos extremos com gastos superiores a R$ 175 mil, revelando anomalias e padrões de alto custo.
+
+Ambas as análises demonstram domínio em ferramentas como Pandas, Matplotlib e técnicas essenciais de exploração de dados.
 
 ## 🎯 Principais Insights
 **Despesa Média por Cargo:** Identifica os cargos com maior gasto médio por viagem
@@ -10,6 +16,8 @@ O objetivo é identificar padrões de deslocamento e despesas na administração
 **Filtro de Relevância:** Considera apenas categorias que representam mais de 1% do volume total de viagens
 
 **Visualização Clara:** Gráfico de barras horizontal mostrando os top cargos por despesa
+
+**Análise de Outliers:** Identificação de casos extremos com gastos superiores a R$ 175 mil
 
 ## 🛠️ Tecnologias Utilizadas
 **Python 3.x**
