@@ -45,3 +45,8 @@ Os dados utilizados vêm do Portal da Transparência e contêm informações sob
 **4. Cálculo de Médias:** Despesa média por cargo dos cargos filtrados
 
 **5. Visualização:** Gráfico de barras destacando os principais cargos
+
+## Obtendo os Dados
+Os dados brutos utilizados neste projeto são públicos e podem ser obtidos diretamente do Portal da Transparência do governo federal:
+
+[Portal da Transparência - Dados de Viagens](https://portaldatransparencia.gov.br/download-de-dados/viagens)
